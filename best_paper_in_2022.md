@@ -1,0 +1,2 @@
+* <span> **2022-06-12**  </span>
+    * Learning Transferable Visual Models From Natural Language Supervision （ICML 21）: 首次在亿级别的 image-text pair 上训练得到的一个 image-text encoder， 该 image encoder 在 ImageNet 上进行 zero-shot 测试的结果达到了 ResNet-50 的等级。该方法提供了一个 general 的图文表示空间，在跨模态任务中得到了广泛的使用。
