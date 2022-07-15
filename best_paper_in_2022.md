@@ -17,3 +17,6 @@
 	* DIFNet: Boosting Visual Information Flow for Image Captioning （CVPR 22）- wangyinfeng
 	* Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning (MM 21) - jinyuda
 	* CMT: Convolutional Neural Networks Meet Vision Transformers (CVPR 22) - zhaobowen
+
+* <span> **2022-07-15**  </span>
+	* ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval (CVPR 22) - lizhe
