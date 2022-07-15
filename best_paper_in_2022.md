@@ -12,3 +12,8 @@
 * <span> **2022-07-01**  </span>
 	* A Survey of Vision-Language Pre-Trained Models (IJCAI 22) - gaojingchun
 	* Comprehending and Ordering Semantics for Image Captioning (CVPR 22) - wangting
+
+* <span> **2022-07-08**  </span>
+	* DIFNet: Boosting Visual Information Flow for Image Captioning （CVPR 22）- wangyinfeng
+	* Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning (MM 21) - jinyuda
+	* CMT: Convolutional Neural Networks Meet Vision Transformers (CVPR 22) - zhaobowen
