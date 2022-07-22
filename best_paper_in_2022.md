@@ -20,3 +20,7 @@
 
 * <span> **2022-07-15**  </span>
 	* ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval (CVPR 22) - lizhe
+
+* <span> **2022-07-22**  </span>
+	* On the Role of Scene Graphs in Image Captioning. (ACL 19 workshop) -lijingyu
+	* Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding. (arXiv 22) -huangmengqi
