@@ -24,3 +24,7 @@
 * <span> **2022-07-22**  </span>
 	* On the Role of Scene Graphs in Image Captioning. (ACL 19 workshop) -lijingyu
 	* Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding. (arXiv 22) -huangmengqi
+
+* <span> **2022-08-12**  </span>
+	* VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix. (ICML 22) -lijingyu
+	* Prompt-to-Prompt Image Editing with Cross Attention Control. (arXiv 22) -fufengyi
