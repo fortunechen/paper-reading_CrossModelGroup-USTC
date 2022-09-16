@@ -28,3 +28,11 @@
 * <span> **2022-08-12**  </span>
 	* VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix. (ICML 22) -lijingyu
 	* Prompt-to-Prompt Image Editing with Cross Attention Control. (arXiv 22) -fufengyi
+
+* <span> **2022-09-02**  </span>
+	* X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval. (MM 22) -xiahou
+	* Multi-task framework based on feature separation and reconstruction for cross-modal retrieval. (PR 21) -guowenxin
+
+* <span> **2022-09-16**  </span>
+	* Open-Vocabulary Object Detection Using Captions. (CVPR 21) -gaojingchun
+	* Cross-modal Memory Networks for Radiology Report Generation. (arXIv 22) -jinyuda
