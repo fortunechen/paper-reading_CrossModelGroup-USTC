@@ -36,3 +36,7 @@
 * <span> **2022-09-16**  </span>
 	* Open-Vocabulary Object Detection Using Captions. (CVPR 21) -gaojingchun
 	* Cross-modal Memory Networks for Radiology Report Generation. (arXIv 22) -jinyuda
+
+* <span> **2022-09-23**  </span>
+	* Mask and Predict: Multi-Step Reasoning for Scene Graph Generation. (MM21) -zhaobowen
+	* MemCap: Memorizing Style Knowledge for Image Captioning. (AAAI 20) -wangyinfeng
