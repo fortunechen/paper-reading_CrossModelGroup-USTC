@@ -45,3 +45,6 @@
 	* FILIP: FINE-GRAINED INTERACTIVE LANGUAGEIMAGE PRE-TRAINING. (ICLR 22) -zhangkun
 	* UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image. (arXiv 22) -chenzhuowei
 
+* <span> **2022-10-28**  </span>
+	* HEAV: HIERARCHICAL ENSEMBLING OF AUGMENTED VIEWS FOR IMAGE CAPTIONING. (ICLR 23 submission) -lijingyu
+	* Modeling Dual Read/Write Paths for Simultaneous Machine Translation. (ACL 22) -lizhe
