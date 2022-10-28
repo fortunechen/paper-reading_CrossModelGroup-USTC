@@ -1,8 +1,0 @@
-1. The idea "gated cross word-visual attention unit" proposed in this paper is not novel enough. The gated mechanism has been used in many papers about information fusion [1][2][3]. In particular, DMGAN[3](ICCV 19) has applied this idea to the text-to-image task. The difference between DMGAN and this work lies in region-level gating, which is not a new idea.
-
-2. The effectiveness is doubtful. The authors don't show the relative improvement in the R-prec metric in Table 2. Moreover, there are many works on T2I proposed in 2021/2022 [4], but this work is not compared with these works.
-
-[1] Attention to scale: Scale-aware semantic image segmentation. CVPR 16
-[2] Attention on attention for image captioning. ICCV 19
-[3] Dm-gan: Dynamic memory generative adversarial networks for text-to-image synthesis. CVPR 19
-[4] https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image

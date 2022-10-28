@@ -40,3 +40,8 @@
 * <span> **2022-09-23**  </span>
 	* Mask and Predict: Multi-Step Reasoning for Scene Graph Generation. (MM21) -zhaobowen
 	* MemCap: Memorizing Style Knowledge for Image Captioning. (AAAI 20) -wangyinfeng
+
+* <span> **2022-10-21**  </span>
+	* FILIP: FINE-GRAINED INTERACTIVE LANGUAGEIMAGE PRE-TRAINING. (ICLR 22) -zhangkun
+	* UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image. (arXiv 22) -chenzhuowei
+
