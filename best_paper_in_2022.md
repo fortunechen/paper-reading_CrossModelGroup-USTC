@@ -48,3 +48,15 @@
 * <span> **2022-10-28**  </span>
 	* HEAV: HIERARCHICAL ENSEMBLING OF AUGMENTED VIEWS FOR IMAGE CAPTIONING. (ICLR 23 submission) -lijingyu
 	* Modeling Dual Read/Write Paths for Simultaneous Machine Translation. (ACL 22) -lizhe
+
+* <span> **2022-11-04**  </span>
+	* Mind the Gap Understanding the Modality Gap in Multi-modal Contrastive Representation Learning. (NIPS 22) -fuzheren
+	* ZeroCap: Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic. (CVPR 22) -zhangjingjing
+
+* <span> **2022-11-11**  </span>
+	* GRIT: Faster and Better Image captioning Transformer Using Dual Visual Features. (ECCV 22) -wangting
+	* Search-oriented Micro-video Captioning. (MM 22) -fufengyi
+
+* <span> **2022-11-18**  </span>
+	* On Semantic Similarity in Video Retrieval. (CVPR 21) -xiahou
+	* StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery. (CVPR 22) -lihao
